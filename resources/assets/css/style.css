@@ -74,7 +74,7 @@
 
 
 
-/*** 
+/***
 
 ====================================================================
   Reset
@@ -89,7 +89,7 @@
 }
 
 
-/*** 
+/***
 
 ====================================================================
   Global Settings
@@ -147,7 +147,7 @@ input,button,select,textarea{
 }
 
 .strike-through{
-  text-decoration:line-through; 
+  text-decoration:line-through;
 }
 
 .auto-container{
@@ -165,10 +165,10 @@ input,button,select,textarea{
 ul,li{
   list-style:none;
   padding:0px;
-  margin:0px; 
+  margin:0px;
 }
 .centered{
-  text-align:center;  
+  text-align:center;
 }
 .sec-pad{
   padding: 92px 0px 100px 0px;
@@ -232,12 +232,12 @@ h4{
 h5{
   font-size: 16px;
   line-height: 26px;
-} 
+}
 
 h6{
   font-size: 14px;
   line-height: 26px;
-} 
+}
 
 h3 a{
   font-size: 24px;
@@ -382,7 +382,7 @@ h6 a:hover{
   bottom: -15px;
 }
 
-/*** 
+/***
 
 ====================================================================
   Scroll To Top style
@@ -540,7 +540,7 @@ h6 a:hover{
 }
 
 
-/*** 
+/***
 
 ====================================================================
                         Home-Page
@@ -670,7 +670,7 @@ h6 a:hover{
 }
 
 .logo-box{
-  background: url(../images/logo/logo1.png) no-repeat 9% 100%;
+  background: url(../images/logo/ent-global-logo.png) no-repeat 9% 100%;
   height: 80px;
   margin-top: 14px;
   margin-left: -3px;
@@ -1162,14 +1162,14 @@ h6 a:hover{
 .progress-levels .progress-box{
   position:relative;
   margin-bottom:20px;
-  overflow:hidden;  
+  overflow:hidden;
 }
 .progress-levels .progress-box:last-child{
-  margin-bottom: 37px;  
+  margin-bottom: 37px;
 }
 .progress-levels .progress-box .bar{
   position:relative;
-  height:14px; 
+  height:14px;
 }
 .progress-levels .progress-box .bar .bar-innner{
   position:relative;
@@ -1194,7 +1194,7 @@ h6 a:hover{
   transition:all 2000ms ease 300ms;
 }
 .progress-levels .progress-box.animated .bar .bar-fill{
-  left:0px; 
+  left:0px;
 }
 .progress-levels .progress-box .percent{
   position:absolute;
@@ -1216,10 +1216,10 @@ h6 a:hover{
   transition:all 500ms ease 1500ms;
 }
 .progress-levels.row .percent{
-  right:15px; 
+  right:15px;
 }
 .progress-levels .progress-box.animated .percent{
-  opacity:1;  
+  opacity:1;
 }
 .progress-levels h6{
   margin-bottom: 8px;
@@ -1638,7 +1638,7 @@ textarea:focus{
 }
 .footer-logo{
   position: relative;
-  background: url(../images/footer/logo1.png) no-repeat 9% 100%;
+  background: url(../images/footer/ent-global-logo.png) no-repeat 9% 100%;
   height: 70px;
   margin-bottom: 34px;
   margin-left: -10px;
@@ -1847,7 +1847,7 @@ textarea:focus{
 }
 
 
-/*** 
+/***
 
 ====================================================================
                         about-Page
@@ -1947,11 +1947,11 @@ textarea:focus{
 .video-gallery .overlay-gallery .icon-holder{
   display: table;
   height: 100%;
-  width: 100%;    
+  width: 100%;
 }
 .video-gallery .overlay-gallery .icon-holder .icon{
   display: table-cell;
-  vertical-align: middle;    
+  vertical-align: middle;
   text-align: center;
 }
 .video-gallery .overlay-gallery .icon-holder .icon a img{
@@ -2181,7 +2181,7 @@ textarea:focus{
 }
 
 
-/*** 
+/***
 
 ====================================================================
                         service-Page
@@ -2202,7 +2202,7 @@ textarea:focus{
 }
 
 
-/*** 
+/***
 
 ====================================================================
                         service-details
@@ -2314,7 +2314,7 @@ textarea:focus{
 }
 
 
-/*** 
+/***
 
 ====================================================================
                         faq page
@@ -2339,7 +2339,7 @@ textarea:focus{
   height: 150px;
 }
 
-/*** 
+/***
 
 ====================================================================
                         testimonial page
@@ -2402,7 +2402,7 @@ textarea:focus{
 }
 
 
-/*** 
+/***
 
 ====================================================================
                         error-page
@@ -2454,7 +2454,7 @@ textarea:focus{
 }
 
 
-/*** 
+/***
 
 ====================================================================
                         gallery-page
@@ -2517,7 +2517,7 @@ textarea:focus{
 }
 
 
-/*** 
+/***
 
 ====================================================================
                         single-project
@@ -2611,7 +2611,7 @@ textarea:focus{
   width: 3px;
   height: 20px;
   left: 0px;
-  top: 15px; 
+  top: 15px;
 }
 .sidebar-page-container .sidebar-search{
   position: relative;
@@ -2767,7 +2767,7 @@ textarea:focus{
 
 
 
-/*** 
+/***
 
 ====================================================================
                         shop page
@@ -3050,7 +3050,7 @@ textarea:focus{
 }
 
 
-/*** 
+/***
 
 ====================================================================
                         single shop page
@@ -3222,7 +3222,7 @@ textarea:focus{
 
 
 
-/*** 
+/***
 
 ====================================================================
                         cart page
@@ -3462,7 +3462,7 @@ textarea:focus{
 }
 
 
-/*** 
+/***
 
 ====================================================================
                         checkout page
@@ -3621,7 +3621,7 @@ label{
   background: #f5f5f5;
 }
 
-/*** 
+/***
 
 ====================================================================
                         login page
@@ -3638,7 +3638,7 @@ label{
 }
 
 
-/*** 
+/***
 
 ====================================================================
                         blog gird page
@@ -3658,7 +3658,7 @@ label{
 }
 
 
-/*** 
+/***
 
 ====================================================================
                         blog classic page
@@ -3685,7 +3685,7 @@ label{
 }
 
 
-/*** 
+/***
 
 ====================================================================
                         blog details
@@ -3862,7 +3862,7 @@ label{
 
 
 
-/*** 
+/***
 
 ====================================================================
                         contact page
