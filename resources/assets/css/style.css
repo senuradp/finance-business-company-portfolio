@@ -670,7 +670,7 @@ h6 a:hover{
 }
 
 .logo-box{
-  background: url(../images/logo/ent-global-logo.png) no-repeat 9% 100%;
+  background: url(../images/brand/ent-global-logo.png) no-repeat 9% 100%;
   height: 80px;
   margin-top: 14px;
   margin-left: -3px;
@@ -1638,7 +1638,7 @@ textarea:focus{
 }
 .footer-logo{
   position: relative;
-  background: url(../images/footer/ent-global-logo.png) no-repeat 9% 100%;
+  background: url(../images/brand/ent-global-logo.png) no-repeat 9% 100%;
   height: 70px;
   margin-bottom: 34px;
   margin-left: -10px;
